@@ -1,2 +1,3 @@
-# WordsThatSpeaks
-## for live demo  https://tap-sound.herokuapp.com/
+## WordsThatSpeaks
+# for live demo click on the link
+https://tap-sound.herokuapp.com/
